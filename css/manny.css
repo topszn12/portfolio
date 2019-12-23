@@ -133,6 +133,7 @@ a:hover {
         display: block;
         margin: 0 auto;
         text-align: center;
+        max-width: max-content;
     }
     .right-side-nav {
         display: block;
@@ -242,6 +243,14 @@ a:hover {
     background-color: #500000 !important;
 }
 
+.bg-vet-raps {
+    background-color: #ec1c2b !important;
+}
+
+.bg-bliss {
+    background-color: #e84242 !important;
+}
+
 .bg-black {
     background-color: #000000 !important;
 }
@@ -254,8 +263,24 @@ a:hover {
     background-color: #FCE300 !important;
 }
 
+.bg-tamu-tan {
+    background-color: #D6D3C4 !important;
+}
+
+.bg-tan {
+    background-color: #E2DDCB !important;
+}
+
 .bg-light-grey {
-    background-color: #d9d8d8 !important;
+    background-color: #D9D8D8 !important;
+}
+
+.bg-vmth-grey {
+    background-color: #F3F3F3 !important;
+}
+
+.bg-grey {
+    background-color: #E2E2E3 !important;
 }
 
 .color-hex {
@@ -277,6 +302,10 @@ a:hover {
     top: 3em;
     font-weight: bold;
     color: white;
+}
+
+.light-color .color-hex-secondary {
+    color: #333333;
 }
 
 .light-grey-border {
@@ -388,11 +417,11 @@ a:hover {
 }
 
 .vet-raps {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1574067806/con-magazine_p1ahfz.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575833808/vet-raps_jwbgpo.jpg')
 }
 
 .aiga {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1574622201/aiga_x2iq5z.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575922138/aiga-3_ttr1zk.jpg')
 }
 
 .eif {
@@ -400,11 +429,15 @@ a:hover {
 }
 
 .bliss {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1574067806/con-magazine_p1ahfz.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575605718/bliss_cauyqc.jpg')
 }
 
 .vmth {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1573792483/pharmacist-and-student-2000x983-q-95-min_ltaeiu.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575921504/vmth_vecgst.jpg')
+}
+
+.vmth-portal {
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575922764/vmth-portal-3_wjhrtd.jpg')
 }
 
 .brewing {
