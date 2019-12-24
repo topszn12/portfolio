@@ -79,10 +79,21 @@
 
     <div class="col-md-12 mb-1">
         <h2 class="mb-1">Contact</h2>
-          <p><b>Emmanuel Estrada</b><br />
-            Phone: 214-682-5199<br />
-            E-Mail: emmanuelestrada94@gmail.com
-          </p>
+          <form name="contact" method="POST" data-netlify="true">
+            <p>
+              <label>Your Name: <br> <input type="text" name="name" /></label>   
+            </p>
+            <p>
+              <label>Your Email: <br> <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Message: <br> <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button class="btn btn-secondary" type="submit">Send</button>
+            </p>
+          </form>
+          
     </div>
 
       </div>
