@@ -405,42 +405,84 @@ a:hover {
     color:#333;
 }
 
+/* Project Homepage Images */
+
 .con-magazine {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1574067806/con-magazine_p1ahfz.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/con-magazine-square_lpdjqe.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .con-magazine {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777153/con-magazine-rec_or22n2.jpg')
+    }
 }
 
 .pharmacy {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1573792483/pharmacist-and-student-2000x983-q-95-min_ltaeiu.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578774714/pharmacist-and-student-square_l13sxr.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .pharmacy {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777153/pharmacist-and-student-rec_irpktc.jpg')
+    }
 }
 
 .nursing {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1573793461/student-with-child_hv5lnw.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/student-with-child-square_wfncp4.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .nursing {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777151/student-with-child-rec_e5mfqa.jpg')
+    }
 }
 
 .vet-raps {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575833808/vet-raps_jwbgpo.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/vet-raps-square_h5qwl6.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .vet-raps {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777150/vet-raps-rec_fvjml3.jpg')
+    }
 }
 
 .aiga {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575922138/aiga-3_ttr1zk.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/aiga-square_k8twx3.jpg')
 }
 
-.eif {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1573793461/student-with-child_hv5lnw.jpg')
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .aiga {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777152/aiga-rec_himzuy.jpg')
+    }
 }
 
 .bliss {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575605718/bliss_cauyqc.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777338/bliss-square_pkgrxz.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .bliss {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777151/bliss-rec_ljpqzl.jpg')
+    }
 }
 
 .vmth {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575921504/vmth_vecgst.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777156/vmth-rec_sqgx3n.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .vmth {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777156/vmth-rec_sqgx3n.jpg')
+    }
 }
 
 .vmth-portal {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1575922764/vmth-portal-3_wjhrtd.jpg')
+    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777468/vmth-portal-square_zcyugv.jpg')
 }
 
-.brewing {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1573793461/student-with-child_hv5lnw.jpg')
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .vmth-portal {
+        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777154/vmth-portal-rec_p9v5ph.jpg')
+    }
 }
