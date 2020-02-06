@@ -408,81 +408,81 @@ a:hover {
 /* Project Homepage Images */
 
 .con-magazine {
-    background-image: url('.images/homepage/con-magazine-square.jpg')
+    background-image: url('..images/homepage/con-magazine-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .con-magazine {
-        background-image: url('.images/homepage/con-magazine-rec.jpg')
+        background-image: url('..images/homepage/con-magazine-rec.jpg')
     }
 }
 
 .pharmacy {
-    background-image: url('.images/homepage/pharmacist-and-student-square.jpg')
+    background-image: url('..images/homepage/pharmacist-and-student-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .pharmacy {
-        background-image: url('.images/homepage/pharmacist-and-student-rec.jpg')
+        background-image: url('..images/homepage/pharmacist-and-student-rec.jpg')
     }
 }
 
 .nursing {
-    background-image: url('.images/homepage/student-with-child-square.jpg')
+    background-image: url('..images/homepage/student-with-child-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .nursing {
-        background-image: url('.images/homepage/student-with-child-rec.jpg')
+        background-image: url('..images/homepage/student-with-child-rec.jpg')
     }
 }
 
 .vet-raps {
-    background-image: url('.images/homepage/vet-raps-square.jpg')
+    background-image: url('..images/homepage/vet-raps-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vet-raps {
-        background-image: url('.images/homepage/vet-raps-rec.jpg')
+        background-image: url('..images/homepage/vet-raps-rec.jpg')
     }
 }
 
 .aiga {
-    background-image: url('.images/homepage/aiga-square.jpg')
+    background-image: url('..images/homepage/aiga-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .aiga {
-        background-image: url('.images/homepage/aiga-rec.jpg')
+        background-image: url('..images/homepage/aiga-rec.jpg')
     }
 }
 
 .bliss {
-    background-image: url('.images/homepage/bliss-square.jpg')
+    background-image: url('..images/homepage/bliss-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .bliss {
-        background-image: url('.images/homepage/bliss-rec.jpg')
+        background-image: url('..images/homepage/bliss-rec.jpg')
     }
 }
 
 .vmth {
-    background-image: url('.images/homepage/vmth-rec.jpg')
+    background-image: url('..images/homepage/vmth-rec.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vmth {
-        background-image: url('.images/homepage/vmth-rec.jpg')
+        background-image: url('..images/homepage/vmth-rec.jpg')
     }
 }
 
 .vmth-portal {
-    background-image: url('.images/homepage/vmth-portal-square.jpg')
+    background-image: url('..images/homepage/vmth-portal-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vmth-portal {
-        background-image: url('.images/homepage/vmth-portal-rec.jpg')
+        background-image: url('..images/homepage/vmth-portal-rec.jpg')
     }
 }
