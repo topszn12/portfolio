@@ -457,31 +457,31 @@ a:hover {
 }
 
 .bliss {
-    background-image: url('..images/homepage/bliss-square.jpg')
+    background-image: url('../images/homepage/bliss-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .bliss {
-        background-image: url('..images/homepage/bliss-rec.jpg')
+        background-image: url('../images/homepage/bliss-rec.jpg')
     }
 }
 
 .vmth {
-    background-image: url('..images/homepage/vmth-rec.jpg')
+    background-image: url('../images/homepage/vmth-rec.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vmth {
-        background-image: url('..images/homepage/vmth-rec.jpg')
+        background-image: url('../images/homepage/vmth-rec.jpg')
     }
 }
 
 .vmth-portal {
-    background-image: url('..images/homepage/vmth-portal-square.jpg')
+    background-image: url('../images/homepage/vmth-portal-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vmth-portal {
-        background-image: url('..images/homepage/vmth-portal-rec.jpg')
+        background-image: url('../images/homepage/vmth-portal-rec.jpg')
     }
 }
