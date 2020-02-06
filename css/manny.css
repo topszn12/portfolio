@@ -158,7 +158,6 @@ a:hover {
 }
 
 .project {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrksbpqRAjLRaTA37Ll-fd-c-cgCQ9JCkoC5hi6VDmo9pAR4eo");
     background-size: cover;
     background-position: center;
     height: 21em;
@@ -408,52 +407,52 @@ a:hover {
 /* Project Homepage Images */
 
 .con-magazine {
-    background-image: url('..images/homepage/con-magazine-square.jpg')
+    background-image: url('../images/homepage/con-magazine-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .con-magazine {
-        background-image: url('..images/homepage/con-magazine-rec.jpg')
+        background-image: url('../images/homepage/con-magazine-rec.jpg')
     }
 }
 
 .pharmacy {
-    background-image: url('..images/homepage/pharmacist-and-student-square.jpg')
+    background-image: url('../images/homepage/pharmacist-and-student-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .pharmacy {
-        background-image: url('..images/homepage/pharmacist-and-student-rec.jpg')
+        background-image: url('../images/homepage/pharmacist-and-student-rec.jpg')
     }
 }
 
 .nursing {
-    background-image: url('..images/homepage/student-with-child-square.jpg')
+    background-image: url('../images/homepage/student-with-child-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .nursing {
-        background-image: url('..images/homepage/student-with-child-rec.jpg')
+        background-image: url('../images/homepage/student-with-child-rec.jpg')
     }
 }
 
 .vet-raps {
-    background-image: url('..images/homepage/vet-raps-square.jpg')
+    background-image: url('../images/homepage/vet-raps-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vet-raps {
-        background-image: url('..images/homepage/vet-raps-rec.jpg')
+        background-image: url('../images/homepage/vet-raps-rec.jpg')
     }
 }
 
 .aiga {
-    background-image: url('..images/homepage/aiga-square.jpg')
+    background-image: url('../images/homepage/aiga-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .aiga {
-        background-image: url('..images/homepage/aiga-rec.jpg')
+        background-image: url('../images/homepage/aiga-rec.jpg')
     }
 }
 
