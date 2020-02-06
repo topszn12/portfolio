@@ -408,81 +408,81 @@ a:hover {
 /* Project Homepage Images */
 
 .con-magazine {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/con-magazine-square_lpdjqe.jpg')
+    background-image: url('.images/homepage/con-magazine-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .con-magazine {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777153/con-magazine-rec_or22n2.jpg')
+        background-image: url('.images/homepage/con-magazine-rec.jpg')
     }
 }
 
 .pharmacy {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/pharmacist-and-student-square_jeszkk.jpg')
+    background-image: url('.images/homepage/pharmacist-and-student-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .pharmacy {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777153/pharmacist-and-student-rec_irpktc.jpg')
+        background-image: url('.images/homepage/pharmacist-and-student-rec.jpg')
     }
 }
 
 .nursing {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/student-with-child-square_wfncp4.jpg')
+    background-image: url('.images/homepage/student-with-child-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .nursing {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777151/student-with-child-rec_e5mfqa.jpg')
+        background-image: url('.images/homepage/student-with-child-rec.jpg')
     }
 }
 
 .vet-raps {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/vet-raps-square_h5qwl6.jpg')
+    background-image: url('.images/homepage/vet-raps-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vet-raps {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777150/vet-raps-rec_fvjml3.jpg')
+        background-image: url('.images/homepage/vet-raps-rec.jpg')
     }
 }
 
 .aiga {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777340/aiga-square_k8twx3.jpg')
+    background-image: url('.images/homepage/aiga-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .aiga {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777152/aiga-rec_himzuy.jpg')
+        background-image: url('.images/homepage/aiga-rec.jpg')
     }
 }
 
 .bliss {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777338/bliss-square_pkgrxz.jpg')
+    background-image: url('.images/homepage/bliss-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .bliss {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777151/bliss-rec_ljpqzl.jpg')
+        background-image: url('.images/homepage/bliss-rec.jpg')
     }
 }
 
 .vmth {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777156/vmth-rec_sqgx3n.jpg')
+    background-image: url('.images/homepage/vmth-rec.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vmth {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777156/vmth-rec_sqgx3n.jpg')
+        background-image: url('.images/homepage/vmth-rec.jpg')
     }
 }
 
 .vmth-portal {
-    background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777468/vmth-portal-square_zcyugv.jpg')
+    background-image: url('.images/homepage/vmth-portal-square.jpg')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .vmth-portal {
-        background-image: url('https://res.cloudinary.com/dcr90qh0s/image/upload/v1578777154/vmth-portal-rec_p9v5ph.jpg')
+        background-image: url('.images/homepage/vmth-portal-rec.jpg')
     }
 }
