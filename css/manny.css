@@ -391,12 +391,17 @@ a:hover {
     border: none;
 }
 
-#brand-guidelines .card-header:hover {
-    background-color: #6c757d;
+#brand-guidelines .button {
+    opacity: 0.6;
+    transition: 0.3s;
 }
 
-#brand-guidelines button:hover {
-    color: white;
+#brand-guidelines .card-header:hover {
+    background-color: #c7c7c7;
+}
+
+#brand-guidelines .btn-link:hover {
+    color: #333;
 }
 
 .btn-link {
