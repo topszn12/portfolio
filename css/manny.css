@@ -498,3 +498,23 @@ a:hover {
         background-image: url('../images/homepage/vmth-portal-rec.jpg')
     }
 }
+
+.sound-mind {
+    background-image: url('../images/homepage/sound-mind-square.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .sound-mind {
+        background-image: url('../images/homepage/sound-mind-rec.jpg')
+    }
+}
+
+.hologram-chat {
+    background-image: url('../images/homepage/hologram-chat-square.jpg')
+}
+
+@media only screen and (max-width: 575px) and (min-width: 450px) {
+    .hologram-chat {
+        background-image: url('../images/homepage/hologram-chat-rec.jpg')
+    }
+}
