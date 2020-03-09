@@ -500,21 +500,21 @@ a:hover {
 }
 
 .sound-mind {
-    background-image: url('../images/homepage/sound-mind-square.jpg')
+    background-image: url('../images/homepage/sound-mind-square.png')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .sound-mind {
-        background-image: url('../images/homepage/sound-mind-rec.jpg')
+        background-image: url('../images/homepage/sound-mind-rec.png')
     }
 }
 
 .hologram-chat {
-    background-image: url('../images/homepage/hologram-chat-square.jpg')
+    background-image: url('../images/homepage/hologram-chat-square.png')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
     .hologram-chat {
-        background-image: url('../images/homepage/hologram-chat-rec.jpg')
+        background-image: url('../images/homepage/hologram-chat-rec.png')
     }
 }
