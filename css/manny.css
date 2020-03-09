@@ -509,12 +509,12 @@ a:hover {
     }
 }
 
-.hologram-chat {
-    background-image: url('../images/homepage/hologram-chat-square.png')
+.babble {
+    background-image: url('../images/homepage/babble-square.png')
 }
 
 @media only screen and (max-width: 575px) and (min-width: 450px) {
-    .hologram-chat {
-        background-image: url('../images/homepage/hologram-chat-rec.png')
+    .babble {
+        background-image: url('../images/homepage/babble-rec.png')
     }
 }
